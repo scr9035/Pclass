@@ -1,0 +1,26 @@
+INFO:root:robot1 (4, 2), robot2 (4, 4), robot3 (0, 0), doc_student1 (0, 3)
+INFO:root:Player location (4, 0)
+INFO:root:robot1 (3, 2), robot2 (4, 1), robot3 (2, 3), doc_student1 (2, 2)
+INFO:root:Player location (4, 3)
+INFO:root:robot1 (4, 4), robot2 (0, 4), robot3 (2, 3), doc_student1 (0, 1)
+INFO:root:Player location (3, 1)
+INFO:root:robot1 (0, 2), robot2 (0, 0), robot3 (0, 2), doc_student1 (2, 3)
+INFO:root:Player location (0, 3)
+INFO:root:Scott, HP: 21.0, XP: 0
+INFO:root:robot1 (2, 0), robot2 (4, 0), robot3 (3, 4), doc_student1 (0, 1)
+INFO:root:Player location (2, 1)
+INFO:root:Scott, HP: 21.0, XP: 0
+INFO:root:Scott, HP: 20.0, XP: 0
+INFO:root:robot1 (2, 1), robot2 (4, 1), robot3 (1, 0), doc_student1 (2, 2)
+INFO:root:Player location (4, 0)
+INFO:root:Scott, HP: 21.0, XP: 0
+INFO:root:Scott, HP: 12.0, XP: 0
+INFO:root:Scott, HP: 11.0, XP: 0
+INFO:root:Scott, HP: 10.0, XP: 0
+INFO:root:Monster: Evil_robot, HP: -7, XP: 3
+INFO:root:Monster: Evil_robot, HP: -7, XP: 3
+INFO:root:Monster: Doc_student, HP: -2, XP: 5
+INFO:root:Monster: Evil_robot, HP: -7, XP: 3
+INFO:root:Monster: Evil_robot, HP: -7, XP: 3
+INFO:root:robot1 (3, 3), robot2 (0, 2), robot3 (1, 4), doc_student1 (2, 0)
+INFO:root:Player location (3, 4)

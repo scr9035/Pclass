@@ -1,0 +1,18 @@
+from __future__ import print_function
+import math
+
+
+numbers = raw_input('Enter two numbers, flips and num coins: ')
+numbers = numbers.split()
+
+collatz_num = numbers[0]
+
+for i in xrange(numbers[1]):
+	if collatz_num % 2 == 0:
+		collatz_num = collatz_num / 2
+	else:
+		collatz_num = 3*collatz_num+1
+
+	return collatz_num
+
+print(collatz_num)
