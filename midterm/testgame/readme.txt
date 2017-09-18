@@ -5,7 +5,7 @@ Deviations from the game:
 I included two monsters from the Monster class. 
 The first is an Evil_robot. The robot has different metallic colors.
 The second is a Doctoral_student. The DS is pale because they never leave the lab.
-The DS is also week but has many HP because it has a strong will to survive.
+The DS is also weak but has many HP because it has a strong will to survive.
 
 There are three character classes.
 The third one has extra potions.
